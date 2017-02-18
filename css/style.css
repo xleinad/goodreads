@@ -1,0 +1,69 @@
+
+.main-cont{
+  padding-right: 0px;
+  padding-left: 0px;
+  background-image: url(masterhead_background.png);
+  height: 370px;
+}
+.cont-h{
+  padding-top: 15px;
+}
+.hline{
+  padding-top: 20px;
+}
+.sign{
+  display: flex;
+  margin-bottom: 5px;
+  margin-left: 1px;
+  height: 30px;
+  width: 100%;
+}
+.agree{
+  display: flex;
+  flex-wrap: nowrap;
+}
+.thirdparty{
+  margin-top: 20px;
+  margin-left: 950px;
+  display: inline-block;
+  background-color: #333333;
+  width: 280px;
+}
+.separa{
+  background-color: #f5f4eb;
+  height: 20px;
+  margin-top: 60px;
+}
+.example{
+  margin-top: 5px;
+  padding-left: 0px;
+}
+.etext{
+  font-family: arial;
+}
+.etext__head{
+  font-size: 17px;
+  font-style: arial;
+  text-decoration
+}
+.etext__body{
+  font-size: 11px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+.etext__head--add{
+  font-size: 19px;
+  font-style: arial;
+  padding-top: 20px;
+}
+.applestore{
+  width: 135px;
+  height: 40px;
+}
+.android{
+  margin-left: 10px;
+  width: 140px;
+  height: 40px;
+}
